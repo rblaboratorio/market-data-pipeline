@@ -1,0 +1,6 @@
+---
+description: 
+alwaysApply: true
+---
+
+This is a .venv folder at the root of codebase, containing our virtual environment (Althoug you cannot see it directly). Always make sure to activate the virtual environment when you work.
